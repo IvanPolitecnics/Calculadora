@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const calcularBtn = document.getElementById("calcular");
     const resultadoDiv = document.getElementById("resultado");
     const propinaPersonaP = document.getElementById("propinaPersona");
-
+    
     // Función para realizar el calculo de la propina
     function calcula() {
         // Obtener valores ingresados por el usuario desde el formulario
